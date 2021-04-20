@@ -1,5 +1,11 @@
 # ReactGraphQLChallenge
 
+## Summary
+
+Using the SpaceX graphql API, create a simple react app that will show the following data.
+
+https://api.spacex.land/graphql/
+
 ## Installation
 
 Install @material-ui with npm:
