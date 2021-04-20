@@ -19,5 +19,5 @@ yarn add @material-ui/core
 
 ```shell
 cd my-spacex
-npm start dev
+npm run dev
 ```
